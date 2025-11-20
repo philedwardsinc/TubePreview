@@ -1,0 +1,5 @@
+{
+  "name": "TubePreview - A/B Thumbnail Tester",
+  "description": "A tool for YouTubers to preview and compare 4 different thumbnail and title combinations in a realistic YouTube homepage environment, featuring AI-powered title suggestions.",
+  "requestFramePermissions": []
+}
